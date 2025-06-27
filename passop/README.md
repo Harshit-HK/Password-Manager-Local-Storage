@@ -1,12 +1,13 @@
-# React + Vite
+# 🔐 Offline Password Manager
+A secure and lightweight offline password manager that lets you store and manage all your passwords locally on your computer. No internet connection is required — all your sensitive data stays on your device, ensuring complete privacy and control.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Store, edit, and delete passwords
 
-Currently, two official plugins are available:
+- Fully offline — no cloud or online sync
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Simple and clean user interface
 
-## Expanding the ESLint configuration
+- Lightweight and fast
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚠️ This app does not upload or share any data — everything is saved locally on your system.
